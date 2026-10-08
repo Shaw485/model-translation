@@ -1,0 +1,10 @@
+build/
+*.app/
+*.zip
+.DS_Store
+.env
+.env.*
+*.pem
+*.key
+model.json
+glossary.json
